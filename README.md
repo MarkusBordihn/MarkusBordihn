@@ -1,6 +1,6 @@
 ### Hi I'm Markus B. 👋
 
-I like working on open source projects in variuos area, please take a look at some of my pinned projects.
+I like working on open source projects in various areas, please take a look at some of my pinned projects.
 <!--
 **MarkusBordihn/MarkusBordihn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
