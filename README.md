@@ -1,11 +1,12 @@
-### Hi I'm Markus B. 👋
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkusBordihn&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusBordihn&layout=compact" />
 </a>
+<br>
+
+### Hi I'm Markus B. 👋
 
 I like working on open source projects in various areas, please take a look at some of my projects:
 
