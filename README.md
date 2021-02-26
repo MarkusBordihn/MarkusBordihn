@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=MarkusBordihn&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusBordihn&layout=compact" />
 </a>
 <br>
