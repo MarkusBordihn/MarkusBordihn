@@ -4,7 +4,7 @@ I like working on open source projects in various areas
 
 
 #### List of some of my projects
-[![Coding with Chrome](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=coding-with-chrome)](https://github.com/google/coding-with-chrome)
+[![Coding with Chrome](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=coding-with-chrome)](https://github.com/google/coding-with-chrome)
 
 <!--
 **MarkusBordihn/MarkusBordihn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
