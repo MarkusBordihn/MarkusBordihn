@@ -1,10 +1,15 @@
 ### Hi I'm Markus B. 👋
 
-I like working on open source projects in various areas
+I like working on open source projects togehter with my friends and family in various areas during my free time.
 
-
-#### List of some of my projects
+#### 🛠 List of some of my projects
 [![Coding with Chrome](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=coding-with-chrome)](https://github.com/google/coding-with-chrome)
+
+#### 🕹 List of some of my Minecraft Mods
+[![Adaptive Performance Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=adaptive_performance_tweaks)](https://github.com/MarkusBordihn/adaptive_performance_tweaks)
+[![Advancements Tracker](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=advancements_tracker)](https://github.com/MarkusBordihn/advancements_tracker)
+[![Bo's-Material-Elements](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Material-Elements)](https://github.com/MarkusBordihn/BOs-Material-Elements)
+[![Bo's Token Coins](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Token-Coins)](https://github.com/MarkusBordihn/BOs-Token-Coins)
 
 <!--
 **MarkusBordihn/MarkusBordihn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Stats
+#### 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=MarkusBordihn&show_icons=true" />
@@ -31,5 +36,5 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-#### Impressum
+#### 📪 Impressum
 [Impressum](https://github.com/MarkusBordihn/Impressum) to be comply with the German tele-media regulations.
