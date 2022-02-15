@@ -6,7 +6,7 @@ I like working on open source projects togehter with my friends and family in va
 [![Coding with Chrome](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=coding-with-chrome)](https://github.com/google/coding-with-chrome)
 
 #### 🕹 List of some of my Minecraft Mods
-[![Adaptive Performance Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=adaptive_performance_tweaks)](https://github.com/MarkusBordihn/adaptive_performance_tweaks)
+[![Adaptive Performance Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Adaptive-Performance-Tweaks)](https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks)
 [![Advancements Tracker](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=advancements_tracker)](https://github.com/MarkusBordihn/advancements_tracker)
 [![Bo's-Material-Elements](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Material-Elements)](https://github.com/MarkusBordihn/BOs-Material-Elements)
 [![Bo's Token Coins](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Token-Coins)](https://github.com/MarkusBordihn/BOs-Token-Coins)
