@@ -4,12 +4,16 @@ I like working on open source projects togehter with my friends and family in va
 
 #### 🛠 List of some of my projects
 [![Coding with Chrome](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=coding-with-chrome)](https://github.com/google/coding-with-chrome)
+[![Ad Manager Viewability Insights](https://github-readme-stats.vercel.app/api/pin/?username=googleads&repo=googleads-viewability-insights-extension)](https://github.com/googleads/googleads-viewability-insights-extension)
+[![Calliope Paper Robot](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=calliope-paper-robot)](https://github.com/google/calliope-paper-robot)
 
 #### 🕹 List of some of my Minecraft Mods
 [![Adaptive Performance Tweaks](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Adaptive-Performance-Tweaks)](https://github.com/MarkusBordihn/BOs-Adaptive-Performance-Tweaks)
 [![Advancements Tracker](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=advancements_tracker)](https://github.com/MarkusBordihn/advancements_tracker)
-[![Bo's-Material-Elements](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Material-Elements)](https://github.com/MarkusBordihn/BOs-Material-Elements)
-[![Bo's Token Coins](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Token-Coins)](https://github.com/MarkusBordihn/BOs-Token-Coins)
+[![Material Elements](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Material-Elements)](https://github.com/MarkusBordihn/BOs-Material-Elements)
+[![Player Companions](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Player-Companions)](https://github.com/MarkusBordihn/BOs-Player-Companions)
+[![Easy Mob Farm](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Easy-Mob-Farm)](https://github.com/MarkusBordihn/BOs-Easy-Mob-Farm)
+[![Daily Rewards](https://github-readme-stats.vercel.app/api/pin/?username=MarkusBordihn&repo=BOs-Daily-Rewards)](https://github.com/MarkusBordihn/BOs-Daily-Rewards)
 
 <!--
 **MarkusBordihn/MarkusBordihn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
