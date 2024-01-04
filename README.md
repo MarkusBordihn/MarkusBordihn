@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 <br>
 
 #### 📪 Impressum
-[Impressum](https://github.com/MarkusBordihn/Impressum) to be comply with the German tele-media regulations.
+[Impressum](https://github.com/MarkusBordihn/Impressum) to be complied with the German tele-media regulations.
